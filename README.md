@@ -76,6 +76,10 @@ dataset/
 
 ## ⚙️ Installation & Setup
 
+### Model links 
+```bash
+https://www.kaggle.com/datasets/dharshiyanacc/dog-vs-cat
+```
 ### 1️⃣ Clone the repository
 
 ```bash
