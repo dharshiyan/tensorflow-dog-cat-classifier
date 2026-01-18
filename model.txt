@@ -1,3 +1,0 @@
-## 🔗 Project Links
-
-- Kaggle Model: https://www.kaggle.com/datasets/dharshiyanacc/dog-vs-cat
