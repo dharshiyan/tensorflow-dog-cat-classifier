@@ -1,1 +1,3 @@
-here the link of model - https://www.kaggle.com/models/dharshiyanacc/dog-cat-classifier
+## 🔗 Project Links
+
+- Kaggle Model: https://www.kaggle.com/datasets/dharshiyanacc/dog-vs-cat
