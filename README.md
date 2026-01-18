@@ -19,7 +19,6 @@ dog-cat-classifier/
 │       ├── cats/
 │       └── dogs/
 │
-├── .vscode/                     # VS Code settings (optional)
 ├── cat.jpg                      # Sample cat image
 ├── dog.jpg                      # Sample dog image
 ├── dog_cat_classifier.keras     # Trained Keras model
