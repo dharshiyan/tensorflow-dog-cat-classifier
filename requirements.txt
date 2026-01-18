@@ -1,0 +1,12 @@
+# pip install -r requirements.txt 
+tensorflow==2.15.0
+numpy>=1.23,<2.0
+scipy>=1.9
+matplotlib>=3.7
+pillow>=9.5
+scikit-learn>=1.2
+pandas>=1.5
+tqdm>=4.64
+opencv-python>=4.8
+
+
