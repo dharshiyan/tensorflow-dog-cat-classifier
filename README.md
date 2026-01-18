@@ -170,7 +170,7 @@ dog_cat_classifier.keras
 
 ## 👨‍💻 Author
 
-DHARSHIYAN
+DHARSHIYAN -
 Deep Learning & Computer Vision Enthusiast
 
 ---
