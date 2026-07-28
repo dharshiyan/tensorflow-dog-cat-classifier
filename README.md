@@ -187,4 +187,4 @@ Deep Learning & Computer Vision Enthusiast
 ---
 
 ## 📄 License
-MIT License
+This project is licensed under the MIT License.
